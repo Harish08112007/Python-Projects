@@ -34,7 +34,7 @@
 #11 is the Ace.
 import random
 from replit import clear
-from art import logo
+from art blackjack import logo
 
 def deal_card():
   """Returns a random card from the deck."""
